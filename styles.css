@@ -1,0 +1,206 @@
+.navbar-nav a {
+  text-align: center;
+}
+.brand {
+   font-family: Pacifico;
+   color: palevioletred;
+   text-decoration: none;
+   margin-right: 1100px;
+   font-size: large;
+}
+.handbag {
+  width: 1530px;
+  height: 700px;
+  margin-top: -10px;
+  margin-left: -115px;
+  
+}
+ 
+  .image-text {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bolder;
+    font-family: Pacifico;
+    color: palevioletred;
+    
+}
+.hero {
+    background-color: #f5ede9;
+     text-align: center;
+    padding: 60px 20px;
+
+}
+.image-infor {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bolder;
+    font-family: Pacifico;
+    color: palevioletred;
+    }
+
+h1 {
+    font-size: large;
+    text-align: left;
+}
+
+    
+.stylish {
+    margin-left: 700px;
+    margin-top: -480px;
+    height: 400px;
+    width: 650px;
+    
+}
+.chic {
+    height: 400px;
+    width: 700px;
+    margin-left: -800px;
+    
+}
+h2 {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-style: italic;
+    font-weight: 500px;
+    font-size: 28px;
+}
+.card-img {
+    height: 600px;
+}
+.card-text2 {
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    
+}
+.card-text3 {
+  text-align: center;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+ .card-title2 {
+    text-align: center;
+    margin-top: 200px;
+ }
+ .message1 {
+    font-weight: 200;
+    text-align: center;
+    font-style: italic;
+ }
+ .hero2 {
+   background-color: #f5ede9;
+     text-align: center;
+    padding: 10px 5px;  
+ }
+ .badge {
+    padding: 20px;
+    text-decoration: none;
+ }
+
+ .contact {
+    margin-left: 100px;
+ }
+ .contact a:hover {
+    color: white;
+ }
+ .closure {
+    margin-top: 60px;
+    background-color: #808080;
+     text-align: left;
+    padding: 30px 20px;
+ }
+ .action {
+    display: inline-table;
+    justify-content: space-around;
+    
+ }
+ .important {
+    color: white;
+    text-decoration: none;
+    justify-content: space-around;
+    
+ }
+ 
+ .logo {
+    color: palevioletred;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Niconne;   
+    font-style: normal;
+    margin-left: 20px;
+ }
+ .socials {
+    justify-content: space-between;
+    color: white;
+    margin-left: 1000px;
+    margin-top: -130px;
+    
+ }
+ .fa-brands {
+    color: white;
+ }
+
+ .fa-brands a:hover {
+   color: blue;
+ }
+
+ .useful {
+color: white;
+text-decoration: underline;
+font-size: large;
+font-weight: 500;
+margin-bottom: 5px;
+ }
+ .query {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+    
+ }
+ .media {
+    text-decoration: underline;
+    font-size: large;
+    font-weight: 500;
+    color: white;
+    
+    
+ }
+ footer a:hover {
+    color: blue;
+ }
+ .tips {
+   margin-left: 500px;
+   margin-top: -200px;
+ }
+ .signature {
+   margin-right: 800px;
+   color: white;
+ }
+ .policy {
+   color: white;
+}
+li {
+   color: white;
+   
+}
+.conditions {
+   margin-top: 80px;
+   margin-bottom: -25px;
+}
+.card-img-top {
+   background-color: #808080;
+}
